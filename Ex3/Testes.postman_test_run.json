@@ -1,0 +1,329 @@
+{
+	"id": "762f2ece-8cc4-44e7-80c8-cf3e6f9d4117",
+	"name": "Testes Copy",
+	"timestamp": "2020-08-27T02:39:59.601Z",
+	"collection_id": "943c1feb-bfbe-43e5-9747-d3a2f0c6619c",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 30,
+	"totalFail": 1,
+	"results": [
+		{
+			"id": "5c58c891-14a0-4e0b-b650-b97282876be1",
+			"name": "extensonúmeros-99999a99999 Pt",
+			"url": "http://177.71.114.188/",
+			"time": 125,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Test 1": true,
+				"Test 2": true,
+				"Test 3": true,
+				"Test 4": true,
+				"Test 5": true,
+				"Test 6": true,
+				"Test 7": false
+			},
+			"testPassFailCounts": {
+				"Test 1": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Test 2": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Test 3": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Test 4": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Test 5": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Test 6": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Test 7": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				125
+			],
+			"allTests": [
+				{
+					"Test 1": true,
+					"Test 2": true,
+					"Test 3": true,
+					"Test 4": true,
+					"Test 5": true,
+					"Test 6": true,
+					"Test 7": false
+				}
+			]
+		},
+		{
+			"id": "2b91bf53-a3ed-4f6a-9ad5-f7f3a38c690b",
+			"name": "extensonúmeros-99999a99999 Pt2",
+			"url": "http://177.71.114.188/",
+			"time": 118,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Test 1": true,
+				"Test 2": true,
+				"Test 3": true,
+				"Test 4": true,
+				"Test 5": true,
+				"Test 6": true
+			},
+			"testPassFailCounts": {
+				"Test 1": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Test 2": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Test 3": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Test 4": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Test 5": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Test 6": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				118
+			],
+			"allTests": [
+				{
+					"Test 1": true,
+					"Test 2": true,
+					"Test 3": true,
+					"Test 4": true,
+					"Test 5": true,
+					"Test 6": true
+				}
+			]
+		},
+		{
+			"id": "135c1f47-1145-4464-9a3c-072886599c07",
+			"name": "extensonúmeros-99999a99999 En",
+			"url": "http://177.71.114.188/",
+			"time": 115,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Test 1": true,
+				"Test 2": true,
+				"Test 3": true,
+				"Test 4": true,
+				"Test 5": true,
+				"Test 6": true,
+				"Test 7": true
+			},
+			"testPassFailCounts": {
+				"Test 1": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Test 2": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Test 3": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Test 4": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Test 5": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Test 6": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Test 7": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				115
+			],
+			"allTests": [
+				{
+					"Test 1": true,
+					"Test 2": true,
+					"Test 3": true,
+					"Test 4": true,
+					"Test 5": true,
+					"Test 6": true,
+					"Test 7": true
+				}
+			]
+		},
+		{
+			"id": "5e7191f4-b338-4368-990e-a6f0964d43bc",
+			"name": "extensonúmeros-99999a99999 En2",
+			"url": "http://177.71.114.188/",
+			"time": 119,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Test 1": true,
+				"Test 2": true,
+				"Test 3": true,
+				"Test 4": true,
+				"Test 5": true,
+				"Test 6": true,
+				"Test 7": true
+			},
+			"testPassFailCounts": {
+				"Test 1": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Test 2": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Test 3": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Test 4": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Test 5": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Test 6": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Test 7": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				119
+			],
+			"allTests": [
+				{
+					"Test 1": true,
+					"Test 2": true,
+					"Test 3": true,
+					"Test 4": true,
+					"Test 5": true,
+					"Test 6": true,
+					"Test 7": true
+				}
+			]
+		},
+		{
+			"id": "fbb8cab0-ccaa-4f5e-8184-4a862f7b038a",
+			"name": "codigoposbarra",
+			"url": "http://177.71.114.188/",
+			"time": 114,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Resposta1": true,
+				"Resposta4": true,
+				"Resposta2": true,
+				"Resposta3": true
+			},
+			"testPassFailCounts": {
+				"Resposta1": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Resposta4": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Resposta2": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Resposta3": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				114
+			],
+			"allTests": [
+				{
+					"Resposta1": true,
+					"Resposta4": true,
+					"Resposta2": true,
+					"Resposta3": true
+				}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 591,
+	"collection": {
+		"requests": [
+			{
+				"id": "5c58c891-14a0-4e0b-b650-b97282876be1",
+				"method": "GET"
+			},
+			{
+				"id": "2b91bf53-a3ed-4f6a-9ad5-f7f3a38c690b",
+				"method": "GET"
+			},
+			{
+				"id": "135c1f47-1145-4464-9a3c-072886599c07",
+				"method": "GET"
+			},
+			{
+				"id": "5e7191f4-b338-4368-990e-a6f0964d43bc",
+				"method": "GET"
+			},
+			{
+				"id": "fbb8cab0-ccaa-4f5e-8184-4a862f7b038a",
+				"method": "GET"
+			}
+		]
+	}
+}
